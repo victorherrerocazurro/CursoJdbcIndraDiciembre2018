@@ -13,7 +13,7 @@ public class Servicio {
 		this.clienteDao = clienteDao;
 	}
 
-	public void realizarDosInsercionesYUnaActualizacionEnUnaUnicaTx(Cliente cliente1, Cliente cliente2) throws SQLException {
+	public void realizarDosInsercionesYUnaActualizacionEnUnaUnicaTx(Cliente cliente1, Cliente cliente2, String nombre) throws SQLException {
 
 		//Abrimos tx y conexion
 		gt.openTransaction();
@@ -23,9 +23,9 @@ public class Servicio {
 			clienteDao.insertar(cliente1);
 			clienteDao.insertar(cliente2);
 			// Ejecutar una actualizacion
+			cliente1.setNombre(nombre);
 			clienteDao.actualizar(cliente1);
 			// commit
-			gt.getCurrentConnection().commit();
 			gt.commit();
 		} catch (SQLException e) {
 			// rollback

@@ -4,3 +4,5 @@
 1545047267641	Extract constant 'INSERT_CLIENTE'
 1545061576330	Extract interface 'ClienteDao'
 1545063762898	Rename method 'openConnection'
+1545121032983	Extract local variable 'gt'
+1545131854782	Extract local variable 'nombreCliente1Esperado'
