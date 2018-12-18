@@ -20,7 +20,7 @@ public class PruebaSave {
 		
 		Integer id = (Integer) s.save(p);
 		
-		p.setNombre("Bender");
+		p.setNombre("Jacinto");
 		//s.update(p);	
 		
 		//s.getTransaction().commit();

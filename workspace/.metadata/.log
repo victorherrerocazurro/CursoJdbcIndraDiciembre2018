@@ -1678,3 +1678,1090 @@ Caused by: org.eclipse.aether.transfer.ArtifactTransferException: Failure to tra
 	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:503)
 	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421)
 	... 41 more
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:24:56.767
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:24:56.767
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:24:56.767
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:24:56.767
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:24:56.830
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:24:56.830
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:24:56.830
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:24:56.830
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:00.995
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:00.995
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:00.995
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:00.995
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:01.057
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:01.057
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:01.057
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:01.057
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:07.282
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:07.282
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:07.282
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:07.282
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:07.344
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:07.344
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:07.344
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:07.344
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:09.965
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:09.965
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:09.965
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:09.965
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:10.027
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:10.027
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:10.027
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:10.027
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:13.681
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:13.681
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:13.681
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:13.681
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:13.743
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:13.743
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:13.743
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:13.743
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:15.849
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:15.849
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:15.849
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:15.849
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:15.912
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:15.912
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:15.912
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:15.912
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:18.532
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:18.532
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:18.532
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:18.532
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:18.595
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:18.595
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:18.595
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:18.595
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:30.513
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:30.513
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:30.513
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:30.513
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:30.560
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:30.560
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:30.560
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:25:30.560
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:26:26.324
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:26:26.324
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:26:26.324
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:26:26.324
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:26:26.387
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:26:26.387
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:26:26.387
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:26:26.387
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:27:15.315
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:27:15.315
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:27:15.315
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:27:15.315
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:27:15.378
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:27:15.378
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:27:15.378
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:27:15.378
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:27:18.513
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:27:18.513
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:27:18.513
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:27:18.513
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:27:18.576
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:27:18.576
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:27:18.576
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:27:18.576
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:29:32.900
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:29:32.900
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:29:32.900
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:29:32.900
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:29:32.962
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:29:32.962
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:29:32.962
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:29:32.962
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:29:37.658
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:29:37.658
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:29:37.658
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:29:37.658
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:29:37.720
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:29:37.720
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:29:37.720
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:29:37.720
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:41:38.894
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:41:38.894
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:41:38.894
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:41:38.894
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:41:38.956
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:41:38.956
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:41:38.956
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:41:38.956
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:42:58.329
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:42:58.329
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:42:58.329
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:42:58.329
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:42:58.376
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:42:58.376
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:42:58.376
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:42:58.376
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:00.497
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:00.497
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:00.497
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:00.497
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:00.560
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:00.560
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:00.560
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:00.560
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:03.711
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:03.711
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:03.711
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:03.711
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:03.758
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:03.758
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:03.758
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:03.758
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:05.879
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:05.879
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:05.879
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:05.879
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:05.942
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:05.942
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:05.942
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:05.942
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:14.740
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:14.740
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:14.740
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:14.740
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:14.803
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:14.803
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:14.803
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:14.803
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:15.879
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:15.879
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:15.895
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:15.895
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:15.941
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:15.941
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:15.941
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:15.941
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:41.213
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:41.213
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:41.213
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:41.213
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:41.276
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:41.276
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:41.276
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:41.276
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:52.648
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:52.648
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:52.648
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:52.648
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:52.711
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:52.711
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:52.711
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:43:52.711
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:45:52.424
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:45:52.424
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:45:52.424
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:45:52.424
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:45:52.487
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:45:52.487
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:45:52.487
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:45:52.487
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:03.766
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:03.781
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:03.781
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:03.781
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:03.828
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:03.828
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:03.828
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:03.828
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:27.528
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:27.528
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:27.528
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:27.528
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:27.590
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:27.590
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:27.590
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:27.590
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:30.211
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:30.211
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:30.211
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:30.211
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:30.273
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:30.273
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:30.273
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:30.273
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:31.350
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:31.350
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:31.350
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:31.365
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:31.412
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:31.412
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:31.412
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:48:31.412
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:50:01.499
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:50:01.499
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:50:01.499
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:50:01.499
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:50:01.562
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:50:01.562
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:50:01.562
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:50:01.562
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:50:30.955
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:50:30.955
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:50:30.955
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:50:30.955
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:50:31.018
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:50:31.018
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:50:31.018
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:50:31.018
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2018-12-18 15:51:23.394
+!MESSAGE Unable to create class 'org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor' from bundle '826'
+!STACK 0
+org.eclipse.e4.core.di.InjectionException: java.lang.NoClassDefFoundError: org/eclipse/jface/util/ListenerList
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:410)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:318)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:105)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:74)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:56)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:129)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:992)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:661)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1293)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.lambda$0(LazyStackRenderer.java:68)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:144)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4889)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:212)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:52)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:173)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:620)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:584)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:769)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.bringToTop(PartServiceImpl.java:401)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1188)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3261)
+	at org.eclipse.ui.internal.WorkbenchPage.access$25(WorkbenchPage.java:3176)
+	at org.eclipse.ui.internal.WorkbenchPage$10.run(WorkbenchPage.java:3158)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3153)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3117)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3098)
+	at org.eclipse.datatools.sqltools.data.internal.ui.editor.EditTableDataAction.run(EditTableDataAction.java:63)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+Caused by: java.lang.NoClassDefFoundError: org/eclipse/jface/util/ListenerList
+	at org.eclipse.datatools.sqltools.data.internal.ui.editor.TableDataEditorSelectionProvider.<init>(TableDataEditorSelectionProvider.java:25)
+	at org.eclipse.datatools.sqltools.data.internal.ui.editor.TableDataEditor.createPartControl(TableDataEditor.java:128)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:151)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:99)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:355)
+	at sun.reflect.GeneratedMethodAccessor99.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:990)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:955)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:124)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:399)
+	... 75 more
+Caused by: java.lang.ClassNotFoundException: org.eclipse.jface.util.ListenerList cannot be found by org.eclipse.datatools.sqltools.data.ui_1.4.0.201701131441
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:484)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:387)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:150)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 88 more
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:51:53.143
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:51:53.143
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:51:53.143
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:51:53.143
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:51:53.190
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:51:53.190
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:51:53.190
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:51:53.190
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:52:38.029
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:52:38.029
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:52:38.029
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:52:38.029
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:52:38.076
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:52:38.076
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:52:38.076
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:52:38.076
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2018-12-18 15:52:46.469
+!MESSAGE Unable to create class 'org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor' from bundle '826'
+!STACK 0
+org.eclipse.e4.core.di.InjectionException: java.lang.NoClassDefFoundError: org/eclipse/jface/util/ListenerList
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:410)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:318)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:105)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:74)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:56)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:129)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:992)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:661)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1293)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.lambda$0(LazyStackRenderer.java:68)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:144)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4889)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:212)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:52)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:173)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:620)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:584)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:769)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.bringToTop(PartServiceImpl.java:401)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1188)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3261)
+	at org.eclipse.ui.internal.WorkbenchPage.access$25(WorkbenchPage.java:3176)
+	at org.eclipse.ui.internal.WorkbenchPage$10.run(WorkbenchPage.java:3158)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3153)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3117)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3098)
+	at org.eclipse.datatools.sqltools.data.internal.ui.editor.EditTableDataAction.run(EditTableDataAction.java:63)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+Caused by: java.lang.NoClassDefFoundError: org/eclipse/jface/util/ListenerList
+	at org.eclipse.datatools.sqltools.data.internal.ui.editor.TableDataEditorSelectionProvider.<init>(TableDataEditorSelectionProvider.java:25)
+	at org.eclipse.datatools.sqltools.data.internal.ui.editor.TableDataEditor.createPartControl(TableDataEditor.java:128)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:151)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:99)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:355)
+	at sun.reflect.GeneratedMethodAccessor99.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:990)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:955)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:124)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:399)
+	... 75 more
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:54:42.221
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:54:42.221
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:54:42.221
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:54:42.221
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:54:42.268
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:54:42.268
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:54:42.268
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 15:54:42.268
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2018-12-18 16:01:29.976
+!MESSAGE Unable to create class 'org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor' from bundle '826'
+!STACK 0
+org.eclipse.e4.core.di.InjectionException: java.lang.NoClassDefFoundError: org/eclipse/jface/util/ListenerList
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:410)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:318)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:105)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:74)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:56)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:129)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:992)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:661)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1293)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.lambda$0(LazyStackRenderer.java:68)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:144)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4889)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:212)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:52)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:173)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:620)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:584)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:769)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.bringToTop(PartServiceImpl.java:401)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1188)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3261)
+	at org.eclipse.ui.internal.WorkbenchPage.access$25(WorkbenchPage.java:3176)
+	at org.eclipse.ui.internal.WorkbenchPage$10.run(WorkbenchPage.java:3158)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3153)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3117)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3098)
+	at org.eclipse.datatools.sqltools.data.internal.ui.editor.EditTableDataAction.run(EditTableDataAction.java:63)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+Caused by: java.lang.NoClassDefFoundError: org/eclipse/jface/util/ListenerList
+	at org.eclipse.datatools.sqltools.data.internal.ui.editor.TableDataEditorSelectionProvider.<init>(TableDataEditorSelectionProvider.java:25)
+	at org.eclipse.datatools.sqltools.data.internal.ui.editor.TableDataEditor.createPartControl(TableDataEditor.java:128)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:151)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:99)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:355)
+	at sun.reflect.GeneratedMethodAccessor99.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:990)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:955)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:124)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:399)
+	... 75 more
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 16:09:54.226
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 16:09:54.226
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 16:09:54.226
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 16:09:54.226
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 16:09:54.288
+!MESSAGE System property http.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 16:09:54.288
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 16:09:54.288
+!MESSAGE System property https.proxyHost is set to proxy.indra.es but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-12-18 16:09:54.288
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
