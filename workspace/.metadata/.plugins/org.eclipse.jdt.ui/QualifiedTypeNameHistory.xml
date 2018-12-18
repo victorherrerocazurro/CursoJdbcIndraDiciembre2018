@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="com.curso.jdbc.PruebaInsertar"/>
+<fullyQualifiedTypeName name="com.curso.jdbc.JdbcClienteDao"/>
+<fullyQualifiedTypeName name="com.curso.jdbc.Cliente"/>
+<fullyQualifiedTypeName name="com.curso.jdbc.ClienteDao"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,75 @@
+package com.curso.jdbc;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+public class JdbcClienteDao {
+
+	// JDBC driver name and database URL
+	private String jdbcDriver = "com.mysql.jdbc.Driver";
+	private String dbUrl = "jdbc:mysql://localhost/STUDENTS";
+
+	// Database credentials
+	private String user = "username";
+	private String password = "password";
+
+	public JdbcClienteDao(String jdbcDriver, String dbUrl, String user, String password) {
+		super();
+		this.jdbcDriver = jdbcDriver;
+		this.dbUrl = dbUrl;
+		this.user = user;
+		this.password = password;
+	}
+
+	public void insertar(Cliente cliente) {
+		
+		Connection conn = null;
+		PreparedStatement stmt = null;
+		try {
+			// STEP 2: Register JDBC driver
+			Class.forName(jdbcDriver);
+
+			// STEP 3: Open a connection
+			System.out.println("Connecting to a selected database...");
+			conn = DriverManager.getConnection(dbUrl, user, password);
+			System.out.println("Connected database successfully...");
+			
+			// STEP 4: Define a query
+			System.out.println("Inserting records into the table...");
+			//stmt = conn.createStatement();
+			
+			stmt = conn.prepareStatement("INSERT INTO Registration " 
+							+ "VALUES (101, 'Mahnaz', 'Fatma', 25)");
+
+			// STEP 5: Set Parameters
+			
+			// STEP 6: Execute a query
+			
+			
+			System.out.println("Inserted records into the table...");
+
+		} catch (SQLException se) {
+			// Handle errors for JDBC
+			se.printStackTrace();
+		} catch (Exception e) {
+			// Handle errors for Class.forName
+			e.printStackTrace();
+		} finally {
+			// finally block used to close resources
+			try {
+				if (stmt != null)
+					conn.close();
+			} catch (SQLException se) {
+			} // do nothing
+			try {
+				if (conn != null)
+					conn.close();
+			} catch (SQLException se) {
+				se.printStackTrace();
+			} // end finally try
+		} // end try
+		System.out.println("Goodbye!");
+	}// end main
+}

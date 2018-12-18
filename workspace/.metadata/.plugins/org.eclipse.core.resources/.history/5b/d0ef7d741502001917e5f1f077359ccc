@@ -1,0 +1,74 @@
+package com.curso.jdbc;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+public class JdbcClienteDao implements ClienteDao {
+
+	private static final String INSERT_CLIENTE = "INSERT INTO Cliente (id, nombre) VALUES (?, ?)";
+	private static final String UPDATE_CLIENTE = "UPDATE Cliente SET nombre = ? WHERE id = ?";
+	private static final String DELETE_CLIENTE = "";
+	private static final String SELECT_CLIENTE = "";
+	private static final String SELECT_CLIENTE_BY_ID = "";
+
+	private GestorTransaccional gt;
+
+	/* (non-Javadoc)
+	 * @see com.curso.jdbc.ClienteDao#insertar(com.curso.jdbc.Cliente)
+	 */
+	@Override
+	public int insertar(Cliente cliente) throws SQLException {
+		// STEP 4: Define a query
+		System.out.println("Inserting records into the table...");
+
+		// Recuperamos la referencia al objeto connection,
+		// que el servicio se ha encargado de crear
+		Connection conn = gt.getCurrentConnection();
+
+		PreparedStatement stmt = conn.prepareStatement(INSERT_CLIENTE);
+
+		// STEP 5: Set Parameters
+		stmt.setLong(1, cliente.getId());
+		stmt.setString(2, cliente.getNombre());
+
+		// STEP 6: Execute a query
+		int numeroDeRegistrosAfectados = stmt.executeUpdate();
+
+		if (numeroDeRegistrosAfectados <= 0) {
+			throw new SQLException("Se deberia de haber obtenido al menos un registro");
+		}
+
+		System.out.println("Inserted records into the table...");
+
+		return numeroDeRegistrosAfectados;
+	}
+
+	/* (non-Javadoc)
+	 * @see com.curso.jdbc.ClienteDao#actualizar(com.curso.jdbc.Cliente)
+	 */
+	@Override
+	public int actualizar(Cliente cliente) throws SQLException {
+		// STEP 4: Define a query
+		System.out.println("Inserting records into the table...");
+
+		Connection conn = gt.getCurrentConnection();
+		
+		PreparedStatement stmt = conn.prepareStatement(UPDATE_CLIENTE);
+
+		// STEP 5: Set Parameters
+		stmt.setString(1, cliente.getNombre());
+		stmt.setLong(2, cliente.getId());
+
+		// STEP 6: Execute a query
+		int numeroDeRegistrosAfectados = stmt.executeUpdate();
+
+		if (numeroDeRegistrosAfectados <= 0) {
+			throw new SQLException("Se deberia de haber obtenido al menos un registro");
+		}
+
+		System.out.println("Inserted records into the table...");
+
+		return numeroDeRegistrosAfectados;
+	}
+}

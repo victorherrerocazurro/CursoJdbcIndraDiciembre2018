@@ -1,0 +1,72 @@
+package com.curso.jdbc;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+public class GestorTransaccional {
+
+	// JDBC driver name and database URL
+	private String jdbcDriver;
+	private String dbUrl;
+
+	// Database credentials
+	private String user;
+	private String password;
+
+	public GestorTransaccional(String jdbcDriver, String dbUrl, String user, String password) {
+		super();
+		this.jdbcDriver = jdbcDriver;
+		this.dbUrl = dbUrl;
+		this.user = user;
+		this.password = password;
+	}
+
+	public void openConnection() {
+		// Abrir una tx
+		Connection conn = null;
+		try {
+			// STEP 2: Register JDBC driver
+			Class.forName(jdbcDriver);
+
+			// STEP 3: Open a connection
+			System.out.println("Connecting to a selected database...");
+			conn = DriverManager.getConnection(dbUrl, user, password);
+			System.out.println("Connected database successfully...");
+		} catch (SQLException se) {
+			// Handle errors for JDBC
+			se.printStackTrace();
+		} catch (Exception e) {
+			// Handle errors for Class.forName
+			e.printStackTrace();
+		} finally {
+			// finally block used to close resources
+			try {
+				// if (stmt != null)
+				conn.close();
+			} catch (SQLException se) {
+			} // do nothing
+			try {
+				if (conn != null)
+					conn.close();
+			} catch (SQLException se) {
+				se.printStackTrace();
+			} // end finally try
+		} // end try
+		System.out.println("Goodbye!");
+
+	}
+
+	public Connection getCurrentConnection() {
+		return null;
+	}
+
+	public void commit() {
+
+	}
+
+	public void rollback() {
+
+	}
+
+}

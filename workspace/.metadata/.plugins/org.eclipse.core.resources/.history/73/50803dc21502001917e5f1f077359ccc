@@ -1,0 +1,37 @@
+package com.curso.jdbc;
+
+import java.sql.SQLException;
+
+public class Servicio {
+
+	private GestorTransaccional gt;
+	private ClienteDao clienteDao;
+
+	public Servicio(GestorTransaccional gt, ClienteDao clienteDao) {
+		super();
+		this.gt = gt;
+		this.clienteDao = clienteDao;
+	}
+
+	public void realizarDosInsercionesYUnaActualizacionEnUnaUnicaTx(Cliente cliente1, Cliente cliente2) {
+
+		gt.openConnection();
+		
+		try {
+			// Ejecutar dos inserciones
+			clienteDao.insertar(cliente1);
+			clienteDao.insertar(cliente2);
+			// Ejecutar una actualizacion
+			clienteDao.actualizar(cliente1);
+			// commit
+			gt.commit();
+		} catch (SQLException e) {
+			// rollback
+			e.printStackTrace();
+			gt.rollback();
+		}
+		
+
+	}
+
+}

@@ -1,0 +1,7 @@
+package com.curso.jdbc;
+
+public class Cliente {
+	
+	private Long id;
+	private String nombre;
+}

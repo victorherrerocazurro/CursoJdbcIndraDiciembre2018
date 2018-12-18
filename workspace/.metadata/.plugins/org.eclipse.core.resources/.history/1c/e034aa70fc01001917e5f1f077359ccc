@@ -1,0 +1,33 @@
+package com.curso.jdbc;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class PruebaInsertar {
+
+	// Datos de prueba de entorno de ejecucion
+	// JDBC driver name and database URL
+	private String jdbcDriver = "org.apache.derby.jdbc.ClientDriver";
+	private String dbUrl = "jdbc:derby://localhost:1527/sample;create=true";
+
+	// Database credentials
+	private String user = "user";
+	private String password = "user";
+
+	@Test
+	public void test() {
+		//Datos de prueba de entrada
+		
+		//Datos esperados
+		
+		//SUT
+		new JdbcClienteDao(jdbcDriver, dbUrl, user, password);
+		//Agitabamos el SUT
+		
+		//Verificabamos
+		
+		fail("Not yet implemented");
+	}
+
+}

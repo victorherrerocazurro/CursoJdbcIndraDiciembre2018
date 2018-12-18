@@ -1,0 +1,12 @@
+package com.curso.jdbc;
+
+import java.sql.Connection;
+
+public class GestorTransaccional {
+
+	public Connection getCurrentConnection() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
